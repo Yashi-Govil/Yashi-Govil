@@ -10,7 +10,7 @@
 - Certified in **Data Analyst Master Course** from **IIM Skills**
 - Completed a hands-on Data Analytics **Internship** at IIM Skills
 - Built a stakeholder-focused Power BI dashboard via **Tata Forage Virtual Experience**
-- Skilled in Excel, SQL, Python (Pandas), Power BI, Tableau, and MySQL Workbench
+- Skilled in Excel, R, Python (Pandas),Alteryx, Power BI, Tableau, and MySQL Workbench
 
 ---
 
