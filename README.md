@@ -30,10 +30,6 @@
 - Built Power BI dashboard for traffic trends and keyword metrics
 - Performed keyword-based data analysis in Python
 
-
-
-
-
 ### [Tata Forage Power BI Project](https://github.com/Yashi-Govil/forage-tata-project)
 - Framed 8 data questions for CEO/CMO based on Onlineretail dataset
 - Cleaned and transformed data to calculate revenue and customer metrics
