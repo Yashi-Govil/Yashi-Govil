@@ -34,10 +34,10 @@ India | Open to full-time and internship opportunities
 - [Power-Bi-final-project-IIM-SKILLS](https://github.com/Yashi-Govil/Power-Bi-final-project-IIM-SKILLS)  
   Cleaned data in Power Query, applied DAX measures, and designed an interactive dashboard.
 
-- [MySQL-Power-BI--integration-project-IIM-SKILLS](https://github.com/Yashi-Govil/mysql-powerbi-integration-project)  
+- [MySQL-Power-BI--integration-project-IIM-SKILLS](https://github.com/Yashi-Govil/MySQL-Power-Bi--integration-project-IIM-SKILLS)  
   Cleaned and structured CSV data, created an EER diagram in MySQL, and connected it to Power BI for dashboard creation.
 
-- [Tableau–Netflix-analysis-IIM-SKILLS](https://github.com/Yashi-Govil/MySQL-Power-Bi--integration-project-IIM-SKILLS)  
+- [Tableau–Netflix-analysis-IIM-SKILLS](https://github.com/Yashi-Govil/Tableau-Netflix-analysis-IIM-SKILLS)  
   Analyzed Netflix content trends by genre, country, and release year; created an interactive Tableau dashboard.
 
 - [Tableau–covid-19-analysis-IIM-SKILLS](https://github.com/Yashi-Govil/Tableau-covid19-analysis-IIM-SKILLS)  
