@@ -8,6 +8,7 @@ India | Open to full-time and internship opportunities
 ## About Me
 
 - Certified in **Data Analytics Master Course** from **IIM Skills**
+- Worked as a **Data Analyst** at BIMTECH
 - Completed a hands-on **Data Analytics Internship** at IIM Skills
 - Built a stakeholder-focused Power BI dashboard via **Tata Forage Virtual Experience**
 - Skilled in Excel, R, Python (Pandas), Alteryx, Power BI, Tableau, and MySQL Workbench
