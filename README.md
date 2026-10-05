@@ -66,7 +66,7 @@ India | Open to full-time and internship opportunities
 ---
 
 ## Connect With Me
-- [LinkedIn](www.linkedin.com/in/yashi-govil) 
+- [LinkedIn](https://www.linkedin.com/in/yashi-govil/?isSelfProfile=true) 
 - [GitHub](https://github.com/Yashi-Govil)
 - yashigovil142@gmail.com
 
