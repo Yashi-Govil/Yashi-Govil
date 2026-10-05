@@ -1,6 +1,6 @@
 # Hi, I'm Yashi Govil
 
-Aspiring Data Analyst | Excel | MySQL | Power BI | Tableau | Python | Bloomberg | CMIE Prowess
+Data Analyst | Excel | MySQL | Power BI | Tableau | Python | Bloomberg | CMIE Prowess
 India | Open to full-time and internship opportunities  
 
 ---
